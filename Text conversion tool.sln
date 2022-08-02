@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text conversion tool", "Text conversion tool\Text conversion tool.csproj", "{22D64B32-4D73-4482-8ABB-894841A8E363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D64B32-4D73-4482-8ABB-894841A8E363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D64B32-4D73-4482-8ABB-894841A8E363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D64B32-4D73-4482-8ABB-894841A8E363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D64B32-4D73-4482-8ABB-894841A8E363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDA0E43-C850-44A9-B0F4-CBF8108E182A}
+	EndGlobalSection
+EndGlobal
